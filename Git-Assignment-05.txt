@@ -3,8 +3,6 @@
 Q. How will you check installed git version?
 Q. Which command is used to check the status of local repository?
 Q. What is use of git init command?
-Q. What is use of git init command?
-
 
 Q. Suppose,I have added four new files say F1.txt,F2.txt,F3.txt and  
    f4.txt in working directory.If I check the status of local repository then what is status of local repository?
